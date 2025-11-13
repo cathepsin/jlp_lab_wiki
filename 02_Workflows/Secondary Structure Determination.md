@@ -3,6 +3,8 @@
 This workflow describes the process for synthesizing, cleaving, and purifying a conceptualized protein sequence, as well as how to determine its secondary structure.
 
 ## Workflow
+test
+
 
 1. Synthesize a peptide
 	- [[Solid Phase Peptide Synthesis - RT]]
